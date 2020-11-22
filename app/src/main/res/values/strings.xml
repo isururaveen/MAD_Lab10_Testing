@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD_Lab10</string>
+    <string name="title">Temp Converter</string>
+    <string name="value">Enter value</string>
+    <string name="celsius">Convert to Celsius</string>
+    <string name="fahrenheit">Convert to Fahrenheit</string>
+    <string name="convert">Convert</string>
+</resources>
